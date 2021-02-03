@@ -31,7 +31,7 @@ print("Is it greater or equal ?", 5>=-2)
 print("Is it less or equal ?", 5<=-2)
 # Output: False
 
-print("Is it not equal ?", 5!=5)
+# print("Is it not equal ?", 5!=5)
 # Output: False
 
 # b = "Hello there"
