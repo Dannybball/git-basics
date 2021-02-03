@@ -39,9 +39,9 @@ print("Is it less or equal ?", 5<=-2)
 # # Output: 11
 
 while True:
-    print("Please type your name. >")
-    name = input()
-    if name =="your name":
+    print("Please type your place. >")
+    place = input()
+    if place =="your place":
         break
 
 print("Thank you")
